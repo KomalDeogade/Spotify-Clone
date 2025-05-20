@@ -11,9 +11,6 @@ This is a simple front-end clone of Spotify’s user interface built using **HTM
  📸 Screenshot
 ![Spotify Clone Screenshot](![Screenshot 2025-05-01 173236](https://github.com/user-attachments/assets/0ea632df-8de2-4692-a8cd-664d2a517552)) 
 
- 🔗 Live Demo
-[Click here to view the live project]( https://komaldeogade.github.io/Spotify-Clone/)
-
  📁 Tech Stack
 - HTML
 - CSS
